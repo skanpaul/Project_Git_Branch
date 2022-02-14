@@ -10,4 +10,5 @@ int main(void)
 void pommier(void)
 {
     printf("Ce pommier sera de taille moyenne \n");
+    printf("Ce pommier aura 3 gros troncs \n");
 }
