@@ -4,6 +4,10 @@ int main(void)
 {
     printf("Je mange une poire \n");
     printf("Je mange une pomme \n");
-
     return 0;
+}
+
+void pommier(void)
+{
+    printf("Ce pommier sera de taille moyenne \n");
 }
