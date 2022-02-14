@@ -7,3 +7,11 @@ int main(void)
 
     return 0;
 }
+
+void cerisier(void)
+{
+    printf("les cerise seront rose \n");
+    printf("3 d entre elle seront violette \n");
+
+
+}
